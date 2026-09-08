@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=FileFlow
+Exec=fileflow_desktop
+Icon=fileflow
+Categories=Utility;
